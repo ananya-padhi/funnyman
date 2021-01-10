@@ -21,20 +21,20 @@ class FrontPage extends React.Component{
             this.setState({url:drumhandsdown})
             setTimeout(() => {
                 this.setState({url:drumhandsup})
-            }, 1000);
+            }, 100);
             
         }
         if(this.state.instrument==="piano"){
             this.setState({url:pianohandsdown})
             setTimeout(() => {
                 this.setState({url:pianohandsup})
-            }, 1000);
+            }, 100);
         }
         if(this.state.instrument==="tabla"){
             this.setState({url:tablahandsdown})
             setTimeout(() => {
                 this.setState({url:tablahandsup})
-            }, 1000);
+            }, 100);
         }
         
     };
