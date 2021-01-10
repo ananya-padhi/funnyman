@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/funnyman/static/css/main.95cb6768.chunk.css",
+    "main.js": "/funnyman/static/js/main.4181d865.chunk.js",
+    "main.js.map": "/funnyman/static/js/main.4181d865.chunk.js.map",
+    "runtime-main.js": "/funnyman/static/js/runtime-main.7fe56874.js",
+    "runtime-main.js.map": "/funnyman/static/js/runtime-main.7fe56874.js.map",
+    "static/js/2.a14b008d.chunk.js": "/funnyman/static/js/2.a14b008d.chunk.js",
+    "static/js/2.a14b008d.chunk.js.map": "/funnyman/static/js/2.a14b008d.chunk.js.map",
+    "static/js/3.2ae94967.chunk.js": "/funnyman/static/js/3.2ae94967.chunk.js",
+    "static/js/3.2ae94967.chunk.js.map": "/funnyman/static/js/3.2ae94967.chunk.js.map",
+    "index.html": "/funnyman/index.html",
+    "static/css/main.95cb6768.chunk.css.map": "/funnyman/static/css/main.95cb6768.chunk.css.map",
+    "static/js/2.a14b008d.chunk.js.LICENSE.txt": "/funnyman/static/js/2.a14b008d.chunk.js.LICENSE.txt",
+    "static/media/drum.92172bcc.mp3": "/funnyman/static/media/drum.92172bcc.mp3",
+    "static/media/drumhandsdown.2bfcf506.png": "/funnyman/static/media/drumhandsdown.2bfcf506.png",
+    "static/media/drumhandsup.bd68b7ed.png": "/funnyman/static/media/drumhandsup.bd68b7ed.png",
+    "static/media/logo.6ce24c58.svg": "/funnyman/static/media/logo.6ce24c58.svg",
+    "static/media/pianohandsdown.0d792013.png": "/funnyman/static/media/pianohandsdown.0d792013.png",
+    "static/media/pianohandsup.dc9d868f.png": "/funnyman/static/media/pianohandsup.dc9d868f.png",
+    "static/media/tablahandsdown.bf10ec61.png": "/funnyman/static/media/tablahandsdown.bf10ec61.png",
+    "static/media/tablahandsup.30aabbd9.png": "/funnyman/static/media/tablahandsup.30aabbd9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe56874.js",
+    "static/js/2.a14b008d.chunk.js",
+    "static/css/main.95cb6768.chunk.css",
+    "static/js/main.4181d865.chunk.js"
+  ]
+}
