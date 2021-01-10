@@ -14,7 +14,7 @@
     "react-dropdown": "^1.9.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
-    "save-dev": "0.0.1-security",
+    "save-dev": "0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
